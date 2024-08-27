@@ -1,0 +1,8 @@
+,Metric,Value
+0,Mean Consecutive Shifts,56.00
+1,Max Consecutive Shifts,56
+2,Min Consecutive Shifts,56
+3,No more than 4 shifts/week,Enforced by constraint
+4,Mon-Wed night shift pattern,Enforced by constraint
+5,Minimum rest period,Enforced by constraint
+6,Maximum night shifts,Enforced by constraint

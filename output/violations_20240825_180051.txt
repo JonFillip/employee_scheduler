@@ -1,0 +1,3 @@
+Shift type imbalance: 372
+Rest period violations: 23
+Night shift violations: 36
