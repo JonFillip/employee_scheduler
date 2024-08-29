@@ -46,6 +46,7 @@ The nurse scheduling problem involves creating a work schedule for a group of nu
    - All reports and visualizations are automatically saved for future reference.
 
 ## Project File Structure
+```
 medmodus_task/
 ├── data/
 │   ├── Nurses.csv
@@ -58,6 +59,7 @@ medmodus_task/
 ├── employee_scheduler.ipynb
 ├── README.md
 ├── requirement.txt
+```
 
 
 ## Key Components
